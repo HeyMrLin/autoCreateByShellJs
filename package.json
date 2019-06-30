@@ -1,0 +1,23 @@
+{
+  "name": "autocreatebyshelljs",
+  "version": "1.0.0",
+  "description": "auto create git branch by shelljs",
+  "main": "index.js",
+  "scripts": {
+    "branch": "node shell.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyMrLin/autoCreateByShellJs.git"
+  },
+  "author": "lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyMrLin/autoCreateByShellJs/issues"
+  },
+  "homepage": "https://github.com/HeyMrLin/autoCreateByShellJs#readme",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
